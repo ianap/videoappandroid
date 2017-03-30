@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CaptureVideo</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="MainActivity.welcome.text">Please select action</string>
+    <string name="MainActivity.recordVideoButtonText">start recording</string>
+    <string name="MainActivity.lifeVideoBtn">Live</string>
+
+    <string name="RecordVideoActivity.selectedVideoLabelText">Video Path:</string>
+    <string name="RecordVideoActivity.startRecButtonText">Start Rec</string>
+    <string name="RecordVideoActivity.uploadVideoButtonText">Upload Video</string>
+    <string name="RecordVideoActivity.selectVideoButtonText">Select Video</string>
+    <string name="RecordVideoActivity.title_activity_record_video">Record Video</string>
+
+    <string name="PlayVideoActivity.hello_world">Hello world!</string>
+    <string name="PlayVideoActivity.title_activity_play_video">Download Video From Server</string>
+    <string name="client_id">8cfadba7a4fc4a5b817589469dc7dd56</string>
+</resources>
