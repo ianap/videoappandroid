@@ -1,0 +1,2 @@
+This application is a part of final project for Systems Support for Continuous Media module.
+We implemented a custom camera  layout. App captures a video in MP4 format, then splits the MP4 file into 3 second streamlets. Finally, uploads the streamlets to a web server.
